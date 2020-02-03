@@ -1,11 +1,11 @@
 title: IOM # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  IOM develops systems for just-in-time small parts manufacturing and fulfillment. Our technology weaves together the latest methods in 3D-printing, robotic manipulation, and machine learning. 
+  IOM develops systems for just-in-time small parts manufacturing and fulfillment. Our technology weaves together recent methods in 3D-printing, robotic manipulation, and machine learning. 
   <br><br>
   Companies should not have to stock low-volume, long-tail products. We enable retailers and fulfillment centers to reduce their inventory, lead time, and human footprint through an all-in-one solution stack.  
   <br><br>
-  <a href="https://www.hackster.io/">View Our Hackster Profile</a> 
+  <!-- <a href="https://www.hackster.io/">View Our Hackster Profile</a> -->
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
