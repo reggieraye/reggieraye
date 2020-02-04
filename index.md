@@ -13,7 +13,7 @@ Part Lifecycle
 4. Complete and test final assembly
 5. Package for delivery
 
-### Applications(https://www.google.com)
+### [Applications](https://www.google.com)
 **Use cases**
 - Long-tail part manufacture
 - Order fulfillment
