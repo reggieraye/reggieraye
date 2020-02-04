@@ -31,12 +31,11 @@ Smart Alarm Clock
 <br>
 <img src="images/product+photo+small.png"/>
 
----
 Rotary Phone
 <br>
+
 <img src="images/photoshoot+2.png"/>
 
----
 Business Card Holder
 <br>
 <img src="images/BCH.png"/>
