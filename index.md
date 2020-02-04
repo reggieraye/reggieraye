@@ -6,7 +6,7 @@ IOM harnesses recent robotic fabrication technologies to autonomously build and 
 
 Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited in purpose-built boxes for immediate shipping. 
 
-**Part Lifecycle**
+**Production Cycle**
 1. Receive purchase order 
 2. 3D-print part housing
 3. Insert stock components 
@@ -28,16 +28,15 @@ Products are fabricated in a vertically integrated robotic ecosystem. Upon compl
 ### Consumer Goods
 
 Smart Alarm Clock
-<br>
+
 <img src="images/product+photo+small.png"/>
 
 Rotary Phone
-<br>
 
 <img src="images/photoshoot+2.png"/>
 
 Business Card Holder
-<br>
+
 <img src="images/BCH.png"/>
 
 ---
