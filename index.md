@@ -2,7 +2,16 @@
 
 
 ### Technology
-adsafdsf
+IOM harnesses recent robotic fabrication technologies to autonomously build and assemble complex products - including devices with circuits, actuators, and motors. It’s not rapid prototyping, it’s rapid production. 
+
+Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited into purpose-built boxes for immediate shipping. 
+
+Part Lifecycle
+Receive purchase order 
+3D-print part housing
+Insert stock components 
+Complete and test final assembly
+Package for delivery
 
 ### Applications
 asdfadsf
