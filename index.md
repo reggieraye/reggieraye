@@ -7,14 +7,23 @@ IOM harnesses recent robotic fabrication technologies to autonomously build and 
 Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited into purpose-built boxes for immediate shipping. 
 
 Part Lifecycle
-Receive purchase order 
-3D-print part housing
-Insert stock components 
-Complete and test final assembly
-Package for delivery
+1. Receive purchase order 
+2. 3D-print part housing
+3. Insert stock components 
+4. Complete and test final assembly
+5. Package for delivery
 
 ### Applications
-asdfadsf
+**Use cases**
+- Long-tail part manufacture
+- Order fulfillment
+- Product packaging
+- Assembly line part sorting
+
+**Target customers**
+- Ecommerce companies
+- Fulfillment centers
+- Brick and mortar retailers
 
 ---
 
@@ -23,15 +32,15 @@ asdfadsf
 
 ### Consumer Goods
 
-[Smart Alarm Clock](/sample_page)
+[Smart Alarm Clock](https://www.reggieraye.com/smart-alarm-clock)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Rotary Telehone](/pdf/sample_presentation.pdf)
+[Rotary Telehone](https://www.reggieraye.com/resistance-phone)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Business Card Holder](http://example.com/)
+[Business Card Holder](https://www.reggieraye.com/card-holder)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
