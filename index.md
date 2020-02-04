@@ -6,7 +6,7 @@ IOM harnesses recent robotic fabrication technologies to autonomously build and 
 
 Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited into purpose-built boxes for immediate shipping. 
 
-Part Lifecycle
+**Part Lifecycle**
 1. Receive purchase order 
 2. 3D-print part housing
 3. Insert stock components 
