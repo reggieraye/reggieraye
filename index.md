@@ -20,11 +20,6 @@ Part Lifecycle
 - Product packaging
 - Assembly line part sorting
 
-**Target customers**
-- Ecommerce companies
-- Fulfillment centers
-- Brick and mortar retailers
-
 ---
 
 ## Sample Products
