@@ -4,7 +4,7 @@
 ### Technology
 IOM harnesses recent robotic fabrication technologies to autonomously build and assemble complex products - including devices with circuits, actuators, and motors. It’s not rapid prototyping, it’s rapid production. 
 
-Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited into purpose-built boxes for immediate shipping. 
+Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited in purpose-built boxes for immediate shipping. 
 
 **Part Lifecycle**
 1. Receive purchase order 
@@ -28,15 +28,18 @@ Products are fabricated in a vertically integrated robotic ecosystem. Upon compl
 ### Consumer Goods
 
 Smart Alarm Clock
+<br>
 <img src="images/product+photo+small.png"/>
 
 ---
-[Rotary Telehone](https://www.reggieraye.com/resistance-phone)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Rotary Phone
+<br>
+<img src="images/photoshoot+2.png"/>
 
 ---
-[Business Card Holder](https://www.reggieraye.com/card-holder)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Business Card Holder
+<br>
+<img src="images/BCH.png"/>
 
 ---
 
