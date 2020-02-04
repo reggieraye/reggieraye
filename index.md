@@ -13,7 +13,7 @@ Part Lifecycle
 4. Complete and test final assembly
 5. Package for delivery
 
-### [Applications](https://www.google.com)
+### Applications
 **Use cases**
 - Long-tail part manufacture
 - Order fulfillment
@@ -27,7 +27,7 @@ Part Lifecycle
 
 ### Consumer Goods
 
-[Smart Alarm Clock](https://www.reggieraye.com/smart-alarm-clock)
+Smart Alarm Clock
 <img src="images/product+photo+small.png"/>
 
 ---
