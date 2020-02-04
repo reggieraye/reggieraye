@@ -14,7 +14,7 @@ Products are fabricated in a vertically integrated robotic ecosystem. Upon compl
 5. Package for delivery
 
 ### Applications
-**Use cases**
+
 - Long-tail part manufacture
 - Order fulfillment
 - Product packaging
@@ -27,6 +27,10 @@ Products are fabricated in a vertically integrated robotic ecosystem. Upon compl
 
 ### Consumer Goods
 
+Business Card Holder
+
+<img src="images/BCH.png"/>
+
 Smart Alarm Clock
 
 <img src="images/product+photo+small.png"/>
@@ -35,13 +39,18 @@ Rotary Phone
 
 <img src="images/photoshoot+2.png"/>
 
-Business Card Holder
-
-<img src="images/BCH.png"/>
-
 ---
 
+## Intellectual Property
 
+IOM’s methods are patent protected across the production cycle. Competitors should find it hard to develop alternative methods to accomplish similar tasks.  
+
+Pending Patents
+- Kirgami-governed cylinder deformation in robotic arms
+- Current-regulated variable friction gripping 
+- Dynamic spherical gantry system
+- Rotary filament switching in 3D-printer extruder heads
+- Method for developing load-tolerant packaging 
 
 
 
