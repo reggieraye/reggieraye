@@ -17,7 +17,7 @@ Production Cycle:
 
 - Long-tail part manufacture
 - Order fulfillment
-- Product packaging
+- Bespoke product packaging
 - Assembly line part sorting
 
 ---
