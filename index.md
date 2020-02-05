@@ -2,7 +2,7 @@
 
 
 ### Technology
-IOM harnesses recent robotic fabrication technologies to autonomously build and assemble complex products - including devices with circuits, actuators, and motors. It’s not rapid prototyping, it’s rapid production. 
+IOM harnesses recent robotic fabrication technologies to autonomously build and assemble complex products - including devices with circuits, moving parts, and actuators. It’s not rapid prototyping, it’s rapid production. 
 
 Products are fabricated in a vertically integrated robotic ecosystem. Upon completion, they are are deposited in purpose-built boxes for immediate shipping. 
 
