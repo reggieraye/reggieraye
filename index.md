@@ -52,6 +52,11 @@ IOM’s methods are patent protected across the production cycle. Competitors sh
 - Rotary filament switching in 3D-printer extruder heads
 - Method for developing load-tolerant packaging 
 
+---
+
+## Contact
+
+You can reach us at info@internetofmaking.com
 
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
