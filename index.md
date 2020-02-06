@@ -15,7 +15,7 @@ Production Cycle:
 
 ### Applications
 
-- Create products inside the last mile
+- Create consumer goods inside the last mile
 - Cost-efficient long-tail product manufacture
 - Order fulfillment on-site or at distribution center
 - Bespoke product packaging
