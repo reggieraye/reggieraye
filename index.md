@@ -46,7 +46,7 @@ Rotary Phone
 IOM’s methods are patent protected across the production cycle. Competitors should find it hard to develop alternative methods to accomplish similar tasks.  
 
 **Pending Patents**
-- Kirgami-governed cylinder deformation in robotic arms
+- Kirigami-governed cylinder deformation in robotic arms
 - Current-regulated variable friction gripping 
 - Dynamic spherical gantry system
 - Rotary filament switching in 3D-printer extruder heads
